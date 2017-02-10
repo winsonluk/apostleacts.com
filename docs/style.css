@@ -171,6 +171,7 @@ header nav ul li a{
 
 .splash{
     background: url("images/supper.jpeg");
+    background-size: cover;
     height: 100vh;
     overflow: hidden;
     position: relative;
@@ -194,7 +195,7 @@ header nav ul li a{
 .splash .container{
     position: relative;
     top: 50%;
-    transform: translate(20%, -50%);
+    transform: translate(20%, -100%);
     z-index: 5;
 }
 .splash h2{
