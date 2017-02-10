@@ -194,7 +194,7 @@ header nav ul li a{
 .splash .container{
     position: relative;
     top: 50%;
-    transform: translate(30%, -50%);
+    transform: translate(20%, -50%);
     z-index: 5;
 }
 .splash h2{
