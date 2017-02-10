@@ -347,6 +347,7 @@ header nav ul li a{
     left: 55%;
 }
 .feature > div > div{
+    padding-left: 100px;
     width: 50%;
     float: right;
 }
