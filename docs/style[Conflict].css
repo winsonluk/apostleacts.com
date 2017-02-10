@@ -247,7 +247,6 @@ header nav ul li a{
 .video .display{
     position: relative;
     padding-bottom: 50%;
-    right: -20px;
     height: 0;
     overflow: hidden;
 }
@@ -270,7 +269,6 @@ header nav ul li a{
 .journey .display{
     position: relative;
     padding-bottom: 50%;
-    right: -20px;
     height: 0;
     overflow: hidden;
 }
@@ -293,7 +291,6 @@ header nav ul li a{
 .analysis .display{
     position: relative;
     padding-bottom: 50%;
-    right: -20px;
     height: 0;
     overflow: hidden;
 }
@@ -316,7 +313,6 @@ header nav ul li a{
 .discussion .display{
     position: relative;
     padding-bottom: 50%;
-    right: -20px;
     height: 0;
     overflow: hidden;
 }
