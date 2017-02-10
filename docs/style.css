@@ -170,7 +170,7 @@ header nav ul li a{
 }
 
 .splash{
-    background: #ccc;
+    background: url("images/supper.jpeg");
     height: 100vh;
     overflow: hidden;
     position: relative;
@@ -180,7 +180,7 @@ header nav ul li a{
     display: block;
     position: absolute;
     top: -150px; right: -150px; bottom: -150px; left: -150px;
-    background: rgba(255,255,255,.95);
+    background: rgba(255,255,255,.50);
     animation: spin 10s infinite linear;
 }
 .splash:before{
@@ -188,7 +188,7 @@ header nav ul li a{
     display: block;
     position: absolute;
     top: -150px; right: -150px; bottom: -150px; left: -150px;
-    background: rgba(255,255,255,.95);
+    background: rgba(255,255,255,.50);
     animation: spin2 10s infinite linear;
 }
 .splash .container{
