@@ -96,6 +96,9 @@ img{
     margin-right: auto;
     padding: 30px 0 50px 0;
 }
+.blog #footer{
+    display: none;
+}
 
 .container{
     width: 100%;
@@ -269,7 +272,7 @@ header nav ul li a{
 }
 
 .analysis{
-    height: 100vh;
+    height: 120vh;
     background: #f6f6f6;
     position: relative;
     overflow: hidden;
