@@ -354,10 +354,11 @@ header nav ul li a{
     border-bottom: 0;
 }
 .feature ul li h3{
+    font-size: 24px;
     margin: 0 0 5px 0;
 }
 .feature p{
-    font-size: 20px;
+    font-size: 18px;
 }
 .feature ul li p:last-child{
     margin: 0;
