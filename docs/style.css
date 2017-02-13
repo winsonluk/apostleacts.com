@@ -291,7 +291,7 @@ header nav ul li a{
     left: 1px;
     width: 80%;
     height: 80%;
-    transform: translate(10%, 0%);
+    padding-left: 15%;
 }
 
 .discussion{
