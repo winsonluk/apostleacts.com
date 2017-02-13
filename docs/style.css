@@ -31,7 +31,7 @@ input:focus, textarea:focus{
     outline: 0;
 }
 
-h1, h2, h3, p{
+h1, h2, h3, h6, p{
     margin: 0 0 20px 0;
     position: relative;
     z-index: 6;
@@ -50,6 +50,10 @@ h2{
 h3{
     font-size: 20px;
     font-weight: 600;
+}
+h6{
+    line-height 10000%;
+    font-size: 50px;
 }
 
 a{
@@ -321,11 +325,11 @@ header nav ul li a{
 }
 .feature:nth-of-type(even) img{
     right: auto;
-    left: 55%;
+    left: 70%;
 }
 .feature > div > div{
     padding-left: 100px;
-    width: 50%;
+    width: 70%;
     float: right;
 }
 .feature > div > div > p{
@@ -351,6 +355,9 @@ header nav ul li a{
 }
 .feature ul li h3{
     margin: 0 0 5px 0;
+}
+.feature p{
+    font-size: 20px;
 }
 .feature ul li p:last-child{
     margin: 0;
