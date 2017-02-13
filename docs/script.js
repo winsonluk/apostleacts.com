@@ -9,7 +9,7 @@ jQuery.extend(jQuery.easing,{
 
 $(document).ready(function(){
 
-    $('a[href="#"], a[href="#about"], a[href="#video"], a[href="#journey"], a[href="#people"], a[href="#analysis"], a[href="#discussion"]').click(function(e){
+    $('a[href="#"], a[href="#about"], a[href="#journey"], a[href="#people"], a[href="#analysis"], a[href="#discussion"]').click(function(e){
         e.preventDefault();
         $('nav').removeClass('visible');
         $('html,body').stop().animate({scrollTop: $('.'+$(this).data('scrollto')).offset().top }, 700, 'easeInOutExpo', function(){});

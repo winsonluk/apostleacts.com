@@ -238,32 +238,9 @@ header nav ul li a{
     margin-bottom: 0;
 }
 
-.video{
-    height: 100vh;
-    background: #f6f6f6;
-    position: relative;
-    overflow: hidden;
-    text-align: center;
-}
-.video .display{
-    position: relative;
-    padding-bottom: 50%;
-    right: -20px;
-    height: 0;
-    overflow: hidden;
-}
-.video .display iframe{
-    position: absolute;
-    top: 0;
-    left: 1px;
-    width: 80%;
-    height: 80%;
-    transform: translate(10%, 0%);
-}
-
 .journey{
     height: 100vh;
-    background: #fff;
+    background: #f6f6f6;
     position: relative;
     overflow: hidden;
     text-align: center;
