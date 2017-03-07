@@ -325,9 +325,8 @@ header nav ul li a{
     padding-bottom: 10px;
     text-align: left;
 }
-.discussion ul{
-}
 .discussion > div{
+    color: #000;
 }
 
 .feature .greybg{
